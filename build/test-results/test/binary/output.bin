@@ -1,0 +1,4 @@
+x17:24:52.982 [Test worker] INFO hello.typeconverter.converter.StringToIpPortConverter - convert source = 127.0.0.1:8080
+p17:24:53.061 [Test worker] INFO hello.typeconverter.formatter.MyNumberFormatter - object = 1000, locale = ko_KR
+k17:24:53.066 [Test worker] INFO hello.typeconverter.formatter.MyNumberFormatter - text=1,000, locale=ko_KR
+k17:24:53.070 [Test worker] INFO hello.typeconverter.formatter.MyNumberFormatter - text=1,000, locale=ko_KR
